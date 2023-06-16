@@ -1,4 +1,4 @@
-# RealityKit-import-multiple-models
+# RealityKit-tap-import-models
 RealityKit SwiftUI Import multiple models 
 # The first part
 ![IMG_0142](https://github.com/S-way520/RealityKit-import-multiple-models/assets/95877651/b79359c7-15e2-4aea-aecb-d176e30455dc)
